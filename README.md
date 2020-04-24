@@ -13,6 +13,14 @@ Guia prático para a utilização da ferramenta.
 
 - [ ] Querer colocar o projeto na nuvem.
 
+- [ ] Pegar um projeto já iniciado, para se trabalhar com o time.
+- [ ] Resolver conflitos.
+- [ ] Antes de enviar a resulução, precisa-se atualizar o projeto local.
+
+- [ ] Voltar um arquivo para um determinado momento da linha do tempo.
+
+- [ ] Recuperar algo deletado.
+
 * `git init` \\ Inicia a linha do tempo.
 * `git add` \\ Adiciona ou atualiza mudanças para irem para a linha do tempo.
 * `git commit` \\ Adiciona um ponto na linha do tempo.
@@ -23,3 +31,5 @@ Guia prático para a utilização da ferramenta.
 * `git checkout` \\ Manipula as linhas do tempo.
 * `git merge` \\ Une as linhas do tempo.
 * `git push` \\ Envia as alterações locais para o repositório remoto.
+* `git clone` \\ Clonar um projeto / repositório.
+* `git pull` \\ Puxa do repositório remoto.
