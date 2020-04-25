@@ -1,10 +1,11 @@
 # Git
 
-Guia prático para a utilização da ferramenta.
+Guia prático para a utilização da ferramenta, cujo é uma ferramenta de versionamento de código.
 
 # Scenes ( Casos de uso )
 
-- [ ] Criar pontos na história da produção do projeto.
+- [ ] Criar pontos na história da produção do projeto, de acordo com as funcionalidades desenvolvidas.
+
 - [ ] Verificar mudanças feitas no projeto.
 
 - [ ] Começar uma nova funcionalidade no projeto, sem estragar o que já foi feito.
