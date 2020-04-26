@@ -1,6 +1,8 @@
 # Git
 
-Guia prático para a utilização da ferramenta, cujo é uma ferramenta de versionamento de código.
+Ferramenta de versionamento de código.
+
+Guia prático para a utilização da ferramenta.
 
 # Scenes ( Casos de uso )
 
