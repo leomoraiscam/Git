@@ -23,6 +23,7 @@ Guia prático para a utilização da ferramenta, cujo é uma ferramenta de versi
 - [ ] Recuperar algo deletado.
 
 * `git init` \\ Inicia a linha do tempo.
+* `git remote` \\ Adiciona um repositório remoto.
 * `git add` \\ Adiciona ou atualiza mudanças para irem para a linha do tempo.
 * `git commit` \\ Adiciona um ponto na linha do tempo.
 * `git log` \\ Visualiza os pontos na linha do tempo / commit.
