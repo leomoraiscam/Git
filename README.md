@@ -57,7 +57,7 @@ Guia prático para a utilização da ferramenta.
 | `git add [nome-arquivo.txt]`           | Adiciona um arquivo para área de stage                               |
 | `git add -A`                           | Adiciona todos os arquivos novos ou modificados para a área de stage |
 | `git commit -m "[Mensagem de Commit]"` | Comita as alterações                                                 |
-| `git rm -r [nome-arquivo.txt]`         | Remove um arquivo (ou pasta)                                         |
+| `git rm -r [nome-arquivo.ext]`         | Remove um arquivo (ou pasta)                                         |
 
 ### Ramificação e União/fusão
 
