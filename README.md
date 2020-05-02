@@ -42,7 +42,7 @@ Guia prático para a utilização da ferramenta.
 
 # Comandos mais detalhados
 
-### Obtendo & Criação de Projetos
+### Obtendo & Criação projetos
 
 | Comando                                                           | Descrição                                     |
 | ----------------------------------------------------------------- | --------------------------------------------- |
