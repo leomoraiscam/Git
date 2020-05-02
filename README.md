@@ -1,7 +1,7 @@
 # Git
-
 Ferramenta de versionamento de código.
 
+#
 Guia prático para a utilização da ferramenta.
 
 # Scenes ( Casos de uso )
