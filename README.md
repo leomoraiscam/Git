@@ -40,7 +40,7 @@ Guia prático para a utilização da ferramenta.
 - `git clone` \\ Clonar um projeto / repositório.
 - `git pull` \\ Puxa do repositório remoto.
 
-# Comandos mais detalhados
+# Comandos separados por suas categorias
 
 ### Obtendo & Criação projetos
 
